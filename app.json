@@ -1,0 +1,22 @@
+{
+    "name": "ceshi",
+    "description": "Deploy 502 on Heroku.",
+    "keywords": ["web"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://xuhao.eu.org",
+    "repository": "https://github.com/trumokl/try_heroku_app/",
+    "stack": "container"
+}
